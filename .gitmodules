@@ -1,0 +1,6 @@
+[submodule "io"]
+	path = io
+	url = C:\\Users\\nicol\\OneDrive\\Dokumente\\Meine Programme\\Manual\\Git\\submodule_sample\\io
+[submodule "math"]
+	path = math
+	url = C:\\Users\\nicol\\OneDrive\\Dokumente\\Meine Programme\\Manual\\Git\\submodule_sample\\math
