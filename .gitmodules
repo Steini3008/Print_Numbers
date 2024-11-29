@@ -1,6 +1,6 @@
 [submodule "io"]
 	path = io
-	url = https://github.com/Steini1998/IO.git
+	url = https://github.com/Steini3008/IO.git
 [submodule "math"]
 	path = math
-	url = https://github.com/Steini1998/Math.git
+	url = https://github.com/Steini3008/Math.git
