@@ -15,7 +15,7 @@ LIBRARY = $(BINARY_FOLDER)/$(LIBRARY_NAME)
 lib: $(LIBRARY)
 	
 $(LIBRARY): $(COMPILED_FILES)
-	jar --create --file $(LIBRARY) $(COMPILED_FILES)
+	jar --create --file $(LIBRARY) -C $(INTERMEDIATE_FOLDER) .
 	
 
 $(INTERMEDIATE_FOLDER)/%.class: $(SOURCE_FOLDER)/%.java
